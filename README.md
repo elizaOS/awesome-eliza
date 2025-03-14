@@ -10,25 +10,25 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ## 📋 Table of Contents
 
-- [🏢 Official Developer Resources](#official-developer-resources)
-- [📚 Tutorials and Learning Resources](#tutorials-and-learning-resources)
-- [🛠️ Tools](#tools)
-- [🔌 Integrations](#integrations)
-- [🔄 Clients](#clients)
-- [💾 Adapters](#adapters)
-- [🧩 Plugins](#plugins)
-  - [⛓️ Blockchain & DeFi](#blockchain--defi)
-  - [📈 Crypto Trading & Exchanges](#crypto-trading--exchanges)
-  - [🧠 AI & Data](#ai--data)
-  - [🎨 Media & Content](#media--content)
-  - [💬 Social & Communication](#social--communication)
-  - [🔒 Infrastructure & Security](#infrastructure--security)
-  - [🔧 Tools & Utilities](#tools--utilities)
-- [👥 Community](#community)
-- [🎬 Videos and Spaces](#videos-and-spaces)
-  - [📅 What Did You Get Done This Week?](#what-did-you-get-done-this-week)
-- [📊 Research and News](#research-and-news)
-- [👏 Contributors](#contributors)
+- [🏢 Official Developer Resources](#-official-developer-resources)
+- [📚 Tutorials and Learning Resources](#-tutorials-and-learning-resources)
+- [🛠️ Tools](#-tools)
+- [🔌 Integrations](#-integrations)
+- [🔄 Clients](#-clients)
+- [💾 Adapters](#-adapters)
+- [🧩 Plugins](#-plugins)
+  - [⛓️ Blockchain & DeFi](#-blockchain--defi)
+  - [📈 Crypto Trading & Exchanges](#-crypto-trading--exchanges)
+  - [🧠 AI & Data](#-ai--data)
+  - [🎨 Media & Content](#-media--content)
+  - [💬 Social & Communication](#-social--communication)
+  - [🔒 Infrastructure & Security](#-infrastructure--security)
+  - [🔧 Tools & Utilities](#-tools--utilities)
+- [👥 Community](#-community)
+- [🎬 Videos and Spaces](#-videos-and-spaces)
+  - [📅 What Did You Get Done This Week?](#-what-did-you-get-done-this-week)
+- [📊 Research and News](#-research-and-news)
+- [👏 Contributors](#-contributors)
 
 ---
 
@@ -42,7 +42,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ## 📚 Tutorials and Learning Resources
 
-- [Quickstart Guide](https://elizaos.github.io/eliza/quickstart) - Get up and running quickly with elizaOS
+- [Quickstart Guide](https://elizaos.github.io/eliza/docs/quickstart) - Get up and running quickly with elizaOS
 - [Building a Social AI Agent in 15 Minutes](https://www.youtube.com/embed/6PZVwNTl5hI?si=0zB3OvYU4KiRQTxI) - Nader's Tutorial
 - [Creating an AI Agent with Your Own Personality](https://www.youtube.com/embed/uouSdtcWXTQ?si=cm13L4T7DQUMXd0C) - Nader's Tutorial
 - [How to Build an API Plugin](https://www.youtube.com/embed/25FxjscBHuo) - Nader's Tutorial ([Code](https://github.com/dabit3/eliza-nasa-plugin))
@@ -56,11 +56,13 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
 - [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
+- [Xnomad mcv](https://github.com/xNomad-AI/mcv) - An out-of-box dev kit to launch AI-NFT based on Eliza's character files
 
 ## 🔌 Integrations
 
 - [Hyperfy](https://hyperfy.how/guides/ai/agents/) - agent creation, autonomous behavior, NPC development in open source 3d web
 - [Nifty Island](https://docs.niftyisland.com/creator/agents/tutorials/eliza/) - Deploy elizas into Nifty Island and beyond
+- [Xnomad.fun](https://xnomad.fun/) - An AI NFT launchpad and interaction platform using Eliza framework
 
 ---
 
