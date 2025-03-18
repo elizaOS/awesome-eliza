@@ -62,7 +62,6 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 - [Hyperfy](https://hyperfy.how/guides/ai/agents/) - agent creation, autonomous behavior, NPC development in open source 3d web
 - [Nifty Island](https://docs.niftyisland.com/creator/agents/tutorials/eliza/) - Deploy elizas into Nifty Island and beyond
-- [Xnomad.fun](https://xnomad.fun/) - An AI NFT launchpad and interaction platform using Eliza framework
 
 ---
 
