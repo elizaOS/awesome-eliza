@@ -10,25 +10,25 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ## 📋 Table of Contents
 
-- [🏢 Official Developer Resources](#official-developer-resources)
-- [📚 Tutorials and Learning Resources](#tutorials-and-learning-resources)
-- [🛠️ Tools](#tools)
-- [🔌 Integrations](#integrations)
-- [🔄 Clients](#clients)
-- [💾 Adapters](#adapters)
-- [🧩 Plugins](#plugins)
-  - [⛓️ Blockchain & DeFi](#blockchain--defi)
-  - [📈 Crypto Trading & Exchanges](#crypto-trading--exchanges)
-  - [🧠 AI & Data](#ai--data)
-  - [🎨 Media & Content](#media--content)
-  - [💬 Social & Communication](#social--communication)
-  - [🔒 Infrastructure & Security](#infrastructure--security)
-  - [🔧 Tools & Utilities](#tools--utilities)
-- [👥 Community](#community)
-- [🎬 Videos and Spaces](#videos-and-spaces)
-  - [📅 What Did You Get Done This Week?](#what-did-you-get-done-this-week)
-- [📊 Research and News](#research-and-news)
-- [👏 Contributors](#contributors)
+- [🏢 Official Developer Resources](#-official-developer-resources)
+- [📚 Tutorials and Learning Resources](#-tutorials-and-learning-resources)
+- [🛠️ Tools](#-tools)
+- [🔌 Integrations](#-integrations)
+- [🔄 Clients](#-clients)
+- [💾 Adapters](#-adapters)
+- [🧩 Plugins](#-plugins)
+  - [⛓️ Blockchain & DeFi](#-blockchain--defi)
+  - [📈 Crypto Trading & Exchanges](#-crypto-trading--exchanges)
+  - [🧠 AI & Data](#-ai--data)
+  - [🎨 Media & Content](#-media--content)
+  - [💬 Social & Communication](#-social--communication)
+  - [🔒 Infrastructure & Security](#-infrastructure--security)
+  - [🔧 Tools & Utilities](#-tools--utilities)
+- [👥 Community](#-community)
+- [🎬 Videos and Spaces](#-videos-and-spaces)
+  - [📅 What Did You Get Done This Week?](#-what-did-you-get-done-this-week)
+- [📊 Research and News](#-research-and-news)
+- [👏 Contributors](#-contributors)
 
 ---
 
@@ -56,6 +56,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
 - [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
+- [Xnomad mcv](https://github.com/xNomad-AI/mcv) - An out-of-box dev kit to launch AI-NFT based on Eliza's character files
 
 ## 🔌 Integrations
 
