@@ -36,6 +36,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 - [elizaOS GitHub Repository](https://github.com/elizaos/eliza) - The main repository for elizaOS, an open-source AI agent framework.
 - [elizaOS Documentation](https://elizaos.github.io/eliza/) - Official documentation and guides
+- [elizaOS How](https://eliza.how/) - Ask anything about Eliza
 - [Sample Characters](https://github.com/elizaos/characters) - Sample character templates and implementations
 - [elizaOS Plugin Registry](https://github.com/elizaos-plugins/registry) - JSON Registry for all the plugins in the elizaOS ecosystem
 - [Contributor Leaderboard](https://elizaos.github.io) - See all the contributors for elizaos/eliza, view daily GitHub summaries
