@@ -146,6 +146,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Rabbi Trader](https://github.com/elizaos-plugins/plugin-rabbi-trader) - Automated cryptocurrency trading on Solana with trust scoring
 - [Trikon](https://github.com/elizaos-plugins/plugin-trikon) - Token transfers for Trikon with wallet management on ZKsync Era
 - [AgentKit](https://github.com/elizaos-plugins/plugin-agentkit) - CDP AgentKit tools for NFT and token management on blockchains
+- [XDC Network](https://github.com/XDC-Community/plugin-xdc) - Provides token operation and balance checking on the XDC Network
 
 ### 📈 Crypto Trading & Exchanges
 
